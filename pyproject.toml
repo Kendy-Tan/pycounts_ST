@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "package_name_ST"
+name = "pycounts_ST"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Sufang Tan"]
